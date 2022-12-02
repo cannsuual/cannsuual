@@ -10,8 +10,8 @@
 - 📫 How to reach me: cannsual@hotmail.com
 
 🛠 Tech Stack
-- 💻   Javascript 
-- 🌐   Angular | Typescript | ReactJS | Angularjs | HTML | CSS | Bootstrap | NodeJS
+- 💻   Javascript  | Typescript
+- 🌐   Angular | ReactJS | Angularjs | HTML | CSS | Bootstrap | NodeJS
 - 🔧   Visual Studio code | Git
 
 
