@@ -6,9 +6,13 @@
 - 🌱 I'm currently working on Orion Innovation Turkey as a Software Design Engineer
 - 🔭 I’m currently learning Angular, TypeScript
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about Angular
+- 🥅 2022 Goals: Learn more about FrontEnd Technologies
+- 📫 How to reach me: cannsual@hotmail.com
 
-
+🛠 Tech Stack
+- 💻   Javascript 
+- 🌐   Angular | Typescript | ReactJS | Angularjs | HTML | CSS | Bootstrap | NodeJS
+- 🔧   Visual Studio code | Git
 
 
 ### Languages and Tools:
